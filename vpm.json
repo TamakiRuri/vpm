@@ -1,7 +1,7 @@
 {
   "author": "rurinya",
   "id": "com.rurinya.vpm",
-  "url": "https://vpm.rurinya.com/",
+  "url": "https://vpm.rurinya.com/vpm.json",
   "packages": {
     "com.rurinya.joinnotification": {
       "versions": {

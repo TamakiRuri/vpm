@@ -1,0 +1,16 @@
+{
+  "author": "rurinya",
+  "id": "io.github.ruritamaki.vpm",
+  "url": "-",
+  "packages": {
+    "com.rurinya.joinnotification": {
+      "versions": {
+        "0.5.0": {
+          "name": "com.example.tool",
+          "version": "0.5.0",
+          "url" : "https://github.com/TamakiRuri/RJoinNotification/releases/download/Beta-5/RJoinNotification-beta5.zip?"
+        }
+      }
+    }
+  }
+}
